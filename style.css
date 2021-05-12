@@ -66,13 +66,13 @@ Button {
     display: table;
     margin: 0 auto;
     margin-bottom: 30px;
-    font: 48px "open-sans", sans-serif;
+    font: 30px "open-sans", sans-serif;
 }
 
 #CardDescription {
     display: table;
     margin: 0 auto;
-    font: 24px "open-sans", sans-serif;
+    font: 20px "open-sans", sans-serif;
     width: 70%;
     text-align: center;
 }
