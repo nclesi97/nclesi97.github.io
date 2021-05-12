@@ -1,10 +1,4 @@
-#Prompt {
-    font: 32px "open-sans", sans-serif;
-    display: table;
-    margin: 0 auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
+
 
 .CardRow {
     display: grid;
